@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI related projects
 - 📫 Reach me on Instagram
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm Hyped, nice to meet ya!
+- ⚡ Fun fact: I founded a big company, nice to meet ya!
 
 <!---
 hypedprogrammer/hypedprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
