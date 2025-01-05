@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on AI related projects
 - 📫 Reach me on Instagram
-- 😄 Pronouns: Hyped
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm Hyped, nice to meet ya!
 
 <!---
